@@ -1,0 +1,161 @@
+premise,hypothesis,label
+The car is red.,The car is not blue.,0
+Mount Everest is the highest mountain on Earth.,Mount Everest is not the highest mountain in North America.,0
+Water boils at 100 degrees Celsius at sea level.,Water does not freeze at 100 degrees Celsius.,0
+The capital of Japan is Tokyo.,The capital of Japan is not Osaka.,0
+Penguins are birds that cannot fly.,Penguins are not mammals.,0
+A square has four equal sides.,A square does not have three sides.,0
+The Amazon River is the longest river in South America.,The Amazon River is not located in Africa.,0
+Sharks are a type of fish.,Sharks are not insects.,0
+The Earth revolves around the Sun.,The Sun does not revolve around the Earth.,0
+Lions are carnivorous animals.,Lions are not herbivores.,0
+A decade is a period of ten years.,A decade is not a period of five years.,0
+The Pacific Ocean is the largest ocean.,The Pacific Ocean is not the smallest ocean.,0
+Spiders have eight legs.,Spiders do not have six legs.,0
+The currency of the United Kingdom is the pound sterling.,The currency of the United Kingdom is not the euro.,0
+Photosynthesis is the process by which plants make their own food.,Photosynthesis is not a process used by animals.,0
+An equilateral triangle has three equal angles.,An equilateral triangle does not have a right angle.,0
+The Sahara is the largest hot desert in the world.,The Sahara is not a tropical rainforest.,0
+Helium is a noble gas.,Helium is not a liquid at room temperature.,0
+The Great Wall of China is located in Asia.,The Great Wall of China is not in Europe.,0
+A human heart has four chambers.,A human heart does not have two chambers.,0
+The moon is Earth's only natural satellite.,The moon is not a star.,0
+Elephants are the largest land animals.,Elephants are not aquatic animals.,0
+The chemical symbol for gold is Au.,The chemical symbol for gold is not Ag.,0
+A bicycle has two wheels.,A bicycle does not have four wheels.,0
+The author of 'Hamlet' is William Shakespeare.,The author of 'Hamlet' is not Charles Dickens.,0
+The meeting is scheduled for 3 PM.,The meeting is not scheduled for the morning.,0
+The defendant was found guilty.,The defendant was not found innocent.,0
+The project was completed on time.,The project was not delayed.,0
+The patient's test results were negative.,The patient's test results were not positive.,0
+The temperature is below freezing.,The temperature is not warm.,0
+She lives in an apartment building.,She does not live in a house.,0
+He works in the finance department.,He does not work in marketing.,0
+The cat is sleeping on the sofa.,The cat is not playing in the garden.,0
+The book is on the top shelf.,The book is not on the bottom shelf.,0
+The train departs from Platform 4.,The train does not depart from Platform 2.,0
+All employees received a bonus.,No employees were excluded from the bonus.,0
+The system is currently online.,The system is not offline.,0
+The package was delivered yesterday.,The package was not delivered today.,0
+His flight is non-stop.,His flight does not have any layovers.,0
+The building is constructed from brick.,The building is not made of wood.,0
+The battery is fully charged.,The battery is not empty.,0
+This ticket is for an adult.,This ticket is not for a child.,0
+The document is written in English.,The document is not written in French.,0
+The store is open 24 hours.,The store is never closed.,0
+The company reported a profit this quarter.,The company did not report a loss this quarter.,0
+He is a vegetarian.,He does not eat meat.,0
+The final answer is an even number.,The final answer is not an odd number.,0
+The bridge is open to traffic.,The bridge is not closed.,0
+The event is exclusively for members.,The event is not open to the public.,0
+The information is classified.,The information is not publicly available.,0
+The car is red.,The car is not red.,2
+Mount Everest is the highest mountain on Earth.,Mount Everest is not a mountain.,2
+Water boils at 100 degrees Celsius at sea level.,Water does not turn into steam at 100 degrees Celsius.,2
+The capital of Japan is Tokyo.,Japan does not have a capital city.,2
+Penguins are birds.,Penguins are not birds.,2
+A square has four sides.,A square does not have four sides.,2
+The Amazon River is in South America.,The Amazon River is not in South America.,2
+Sharks are a type of fish.,Sharks are not a type of fish.,2
+The Earth revolves around the Sun.,The Earth does not revolve around the Sun.,2
+Lions are carnivorous animals.,Lions are not carnivores.,2
+A decade is a period of ten years.,A decade is not a period of ten years.,2
+The Pacific Ocean is the largest ocean.,The Pacific Ocean is not a large body of water.,2
+Spiders have eight legs.,Spiders do not have legs.,2
+The currency of the United Kingdom is the pound sterling.,The United Kingdom does not use the pound sterling.,2
+Plants use photosynthesis to make food.,Photosynthesis is not used by plants.,2
+An equilateral triangle has three equal angles.,An equilateral triangle does not have three angles.,2
+The Sahara is a desert.,The Sahara is not a desert.,2
+Helium is a gas at room temperature.,Helium is not a gas.,2
+The Great Wall of China is in Asia.,The Great Wall of China is not in Asia.,2
+A human heart has four chambers.,A human heart does not have chambers.,2
+The moon is Earth's only natural satellite.,The moon is not a satellite.,2
+Elephants are large land animals.,Elephants are not land animals.,2
+The chemical symbol for gold is Au.,The chemical symbol for gold is not Au.,2
+A bicycle has two wheels.,A bicycle does not have two wheels.,2
+William Shakespeare wrote 'Hamlet'.,'Hamlet' was not written by William Shakespeare.,2
+The meeting is scheduled for 3 PM.,The meeting is not scheduled for 3 PM.,2
+The defendant was found guilty.,The defendant was not found guilty.,2
+The project was completed on time.,The project was not completed on time.,2
+The patient's test results were negative.,The patient's test results were not negative.,2
+The temperature is below freezing.,The temperature is not below freezing.,2
+She lives in an apartment building.,She does not live in an apartment.,2
+He works in the finance department.,He does not work in finance.,2
+The cat is sleeping on the sofa.,The cat is not sleeping.,2
+The book is on the top shelf.,The book is not on a shelf.,2
+The train departs from Platform 4.,The train does not depart from Platform 4.,2
+All employees received a bonus.,The employees did not receive a bonus.,2
+The system is currently online.,The system is not online.,2
+The package was delivered yesterday.,The package was not delivered yesterday.,2
+His flight is non-stop.,The flight is not non-stop.,2
+The building is constructed from brick.,The building is not made from brick.,2
+The battery is fully charged.,The battery is not charged.,2
+This ticket is for an adult.,The ticket is not for an adult.,2
+The document is written in English.,The document is not in English.,2
+The store is open 24 hours.,The store is not open 24 hours.,2
+The company reported a profit this quarter.,The company did not report a profit.,2
+He is a vegetarian.,He is not a vegetarian.,2
+The final answer is an even number.,The final answer is not an even number.,2
+The bridge is open to traffic.,The bridge is not open.,2
+The event is exclusively for members.,The event is not for members.,2
+The information is classified.,The information is not classified.,2
+The movie won an Oscar for Best Picture.,The movie was the best film of the decade.,1
+The restaurant received a five-star rating from the health inspector.,It is the most delicious place to eat in the city.,1
+The painting is displayed in the national museum.,The painting is a masterpiece of modern art.,1
+The company's stock price increased by 15% last quarter.,The company has a bright future.,1
+The novel sold over a million copies.,The novel is a literary classic.,1
+The athlete ran the marathon in under three hours.,She is the most inspiring athlete of her generation.,1
+The symphony was composed by Beethoven.,The symphony is the most beautiful piece of music ever written.,1
+The car has a top speed of 200 mph.,The car is incredibly fun to drive.,1
+The politician was elected with 60% of the vote.,He is an excellent leader for the country.,1
+The recipe requires five different spices.,The dish tastes amazing.,1
+The building was designed by a famous architect.,The architecture is breathtakingly beautiful.,1
+The city is known for its historical landmarks.,It is a wonderful place for a vacation.,1
+The software has over 100 features.,The software is very user-friendly.,1
+The team won the championship game.,They are the greatest team in the history of the sport.,1
+The presentation lasted for one hour.,The presentation was very engaging.,1
+The hotel is located by the beach.,The hotel has the most stunning views.,1
+The singer's latest album went platinum.,Her music is truly revolutionary.,1
+The professor has a PhD from Harvard University.,He is the best teacher at the university.,1
+The camera has a 50-megapixel sensor.,The camera takes incredible photos.,1
+The new phone was released last week.,The phone is the best on the market.,1
+The coffee is brewed from premium Arabica beans.,This is the most satisfying cup of coffee.,1
+The concert was sold out within minutes.,The performance was an unforgettable experience.,1
+The garden contains over 200 species of roses.,The garden is a magical place to visit.,1
+The CEO gave a speech to all employees.,The CEO's speech was highly motivational.,1
+The charity organization raised a million dollars.,The organization is doing fantastic work for the community.,1
+The chef trained at a Michelin-starred restaurant.,The food he prepares is exquisite.,1
+The actor has been in over fifty movies.,He is a very talented actor.,1
+The dog won 'Best in Show' at the competition.,The dog is extremely cute.,1
+The article was published in a prestigious scientific journal.,The research presented is groundbreaking.,1
+The wine is aged for 20 years in oak barrels.,The wine has a superb flavor profile.,1
+The company hired ten new employees last month.,The company is growing at a reasonable pace.,1
+The project deadline was extended by one week.,The project experienced some delays.,1
+The new policy was announced via email to all staff.,The policy change might be significant.,1
+The server was offline for approximately 30 minutes.,There was a brief interruption in service.,1
+A customer reported an issue with the product.,A few customers have had problems.,1
+The marketing campaign reached over a million people.,The campaign was fairly successful.,1
+The report is 80 pages long.,The report contains a lot of information.,1
+The team had a meeting to discuss the quarterly results.,The meeting was somewhat productive.,1
+The survey had 500 respondents.,A decent number of people responded to the survey.,1
+The city's population grew by 2% last year.,The city is experiencing a bit of growth.,1
+The algorithm improved its accuracy by 1%.,The algorithm is slightly better now.,1
+The store is having a sale on select items.,You can get some good deals there.,1
+The weather forecast predicts a 30% chance of rain.,It might rain later today.,1
+The car's fuel efficiency is 25 miles per gallon.,The car is moderately fuel-efficient.,1
+The flight was delayed by 20 minutes.,The flight was a little late.,1
+The company's quarterly earnings were slightly below analyst expectations.,The company's performance was a little disappointing.,1
+The user manual provides instructions for setup.,The setup process is supposed to be easy.,1
+The conference will have several keynote speakers.,The conference will probably be interesting.,1
+The support team resolves most tickets within 24 hours.,The support team is generally responsive.,1
+The new update adds a few features to the application.,The application has seen some improvements.,1
+The CEO has been with the company for over twenty years.,The CEO is quite experienced.,1
+The investment carries a degree of risk.,The investment could potentially lose money.,1
+The building is located several miles from the city center.,The building is somewhat far from downtown.,1
+The plan involves multiple phases of execution.,The plan seems quite complex.,1
+There are a number of factors to consider before making a decision.,The decision requires careful thought.,1
+The experiment produced some interesting results.,The results may have implications for future research.,1
+The politician's speech touched upon various topics.,The speech covered a lot of ground.,1
+The student received a B on the exam.,The student's performance was okay.,1
+The new employee has learned the basic tasks.,The employee is making adequate progress.,1
+The company has several competitors in the market.,The market is relatively competitive.,1
